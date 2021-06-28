@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jczasgit
 - 👀 I’m interested in Web and Android Dev.
-- 🌱 I’m currently learning Android Dev using Nativescript.
+- 🌱 I’m currently learning webRTC and video data streaming over the web.
 - 💞️ I’m looking to collaborate on anything that is within my abilities.
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jczasgit
+- 👋 Hi, I’m Juan Carlos, or JC.
 - 👀 I’m interested in Web and Android Dev.
 - 🌱 I’m currently learning webRTC and video data streaming over the web.
 - 💞️ I’m looking to collaborate on anything that is within my abilities.

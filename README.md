@@ -9,7 +9,6 @@ Skills: ANGULAR / REACT / NODEJS / JS / HTML / CSS
 - 👯 I’m looking to collaborate on web development and peer-peer systems development. 
 - 🤔 I’m looking for help with providing insights or guidance to implement a BitTorrent client in NodeJS. 
 - 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I am actually Asian🌏. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jczasgit)  

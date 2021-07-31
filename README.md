@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jc
 #### Web Dev👨‍💻 & P2P Lover🌐
-I'm Jc from Venezuela🇻🇪, I ❤ coding/programming. Especially web development and peer-peer system(although I am just getting started with this).
+I'm Jc & I ❤ coding/programming. Especially web development and peer-peer system(although I am just getting started with this).
 
 Skills: ANGULAR / REACT / NODEJS / JS / HTML / CSS
 

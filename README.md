@@ -5,7 +5,9 @@ Here is my underperforming portofolio site: https://juancwu.dev
 I sometimes code. Here are some projects I want to get done by ~~2024~~ (2025):
 
 ### In Progress
-- [ ] [Konbini](https://github.com/juancwu/konbini) (In Progress)
+- [ ] [Konbini](https://github.com/juancwu/konbini)
+- [ ] [Hermes](https://github.com/juancwu/hermes)
+- [ ] [GoPack](https://github.com/juancwu/gopack)
 
 ### To DO
 - [ ] Text Editor

@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan
 
-Here is my underperforming portofolio site: https://juancwu.dev
+Here is my astonishing portofolio site: https://juancwu.dev
 
 I sometimes code. Here are some projects I want to get done by ~~2024~~ (2025):
 

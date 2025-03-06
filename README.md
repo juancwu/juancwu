@@ -16,6 +16,7 @@ I sometimes code. Here are some projects I want to get done by ~~2024~~ (2025):
 
 ### Completed
 - [x] Compiler in Go
+- [x] [EmojiScript](https://github.com/KonferCA/EmojiScript)
 
 Things that I want to have a better understanding in ~~2024~~ (2025):
 
